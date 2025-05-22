@@ -1,9 +1,26 @@
-﻿__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.env.*
-*.env
-*.DS_Store
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# MacOS & system files
+.DS_Store
+Thumbs.db
+
+# Logs and local config
 *.log
+*.env
+
+# Jupyter & temp files
+.ipynb_checkpoints/
+*.csv~
+*.tmp
