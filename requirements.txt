@@ -1,1 +1,4 @@
-flask\npandas\nmatplotlib\nnumpy
+flask
+pandas
+matplotlib
+numpy
